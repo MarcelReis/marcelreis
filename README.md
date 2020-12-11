@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Reis</h1>
-<h3 align="center">A passionate frontend developer who loves Typescript and React, and is afraid of jQuery spaguetti</h3>
+<h3 align="center">A passionate frontend developer who loves Typescript and React, and is afraid of jQuery spaghetti</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelreis&label=Profile%20views&color=0e75b6&style=flat" alt="marcelreis" /> </p>
 
