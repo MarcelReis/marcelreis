@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Letras.com](https://www.letras.com/)
 
-- 🌱 I’m currently learning **PHP, MySQL, Ruby, Golang and Vue.js**
+- 🌱 I’m currently learning **Flutter, MySQL, Python and Vue.js**
 
 - 👨‍💻 All of my projects are available at [marcelreis.dev](marcelreis.dev)
 
