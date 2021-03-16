@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelreis" alt="marcelreis" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_marcelreis" target="blank"><img src="https://img.shields.io/twitter/follow/_marcelreis?logo=twitter&style=for-the-badge" alt="_marcelreis" /> <br> <img src="https://www.codewars.com/users/MarcelReis/badges/large" /> </a> </p>
+<p align="left"> <a href="https://twitter.com/_marcelreis" target="blank"><img src="https://img.shields.io/twitter/follow/_marcelreis?logo=twitter&style=for-the-badge" alt="_marcelreis" /> </a> <br> <img src="https://www.codewars.com/users/MarcelReis/badges/large" />  </p>
 
 - 🔭 I’m currently working on [Letras.com](https://www.letras.com/)
 
