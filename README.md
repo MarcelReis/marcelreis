@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_marcelreis" target="blank"><img src="https://img.shields.io/twitter/follow/_marcelreis?logo=twitter&style=for-the-badge" alt="_marcelreis" /> </a> <br> <img src="https://www.codewars.com/users/MarcelReis/badges/large" />  </p>
 
-- 🔭 I’m currently working on [Letras.com](https://www.letras.com/)
+- 🔭 I’m currently working on [Phone2Action](https://phone2action.com/)
 
-- 🌱 I’m currently learning **Flutter, MySQL, Python and Vue.js**
+- 🌱 I’m currently learning **Flutter, SQL and Vue.js**
 
 - 👨‍💻 All of my projects are available at [marcelreis.dev](marcelreis.dev)
 
